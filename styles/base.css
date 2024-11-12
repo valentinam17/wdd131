@@ -6,8 +6,8 @@
 nav {
     background-color: steelblue;
     padding: 10px; 
-    display: flex;
-    text-align: center;
+    display: block flex;
+    text-align: justify;
 }
 nav a {
     color: white;
